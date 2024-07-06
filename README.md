@@ -19,7 +19,6 @@ apt install -y bind9 bind9utils dnsutils apache2
 Disable default configuration files by executing the command
 ```
 a2dissite 000-default.conf
-systemctl restart apache2.service
 ```
 Enable the apache 2 configuration file by executing this command
 ```
