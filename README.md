@@ -12,7 +12,7 @@ git clone https://github.com/Vertirose/tugas-dns-web-server.git techStack/
 ## Install Bind9 and Apache 2
 Download bind9 and apache 2 on the virtual machine using the command below
 ```
-apt install -y bind9 apache2
+apt install -y bind9 bind9utils dnsutils apache2
 ```
 
 ## Configuration
