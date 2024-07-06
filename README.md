@@ -4,4 +4,6 @@
 - [Git](https://git-scm.com/) for clone this source file to virtual machine
 
 ## Clone Repository
-``` git clone https://github.com/Vertirose/tugas-dns-web-server.git techStack/ ```
+``` 
+git clone https://github.com/Vertirose/tugas-dns-web-server.git techStack/
+```
